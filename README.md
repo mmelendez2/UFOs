@@ -4,7 +4,7 @@
 
 - The purpose of this analysis is to capture UFO sightings and filter the data within a webpage. The data used includes several components recorded during each UFO sighting including the date, city, state, shape of the UFO, duration of the sighting, and also comments describing the event. The dataset used is only for UFO sightings in the year of 2010 and in the United States.
 
-![Filter Search](C:\Users\melen\OneDrive\Documents\Bootcamp_Challenges\Module 11 - JavaScript\UFOs\static\images\ufo_html.png)
+![UFO Sightings](https://user-images.githubusercontent.com/89496798/147433680-240b2260-1d79-4c4a-9d0b-a73e488a4005.png)
 
 ## Results
 
@@ -15,11 +15,11 @@
     - Country
     - Shape
 
-![Filter Search](C:\Users\melen\OneDrive\Documents\Bootcamp_Challenges\Module 11 - JavaScript\UFOs\static\images\filters.png)
+![Filter Search](https://user-images.githubusercontent.com/89496798/147433627-78801e36-fa14-44c9-8d6e-dac49b1fd91e.png)
 
 The data will reflect on the UFO Sighting Table on the right of it as soon as the blank fields are filled. If it does not, users may click on the "Filter Table" button above the filter fields:
 
-![Filter Search](C:\Users\melen\OneDrive\Documents\Bootcamp_Challenges\Module 11 - JavaScript\UFOs\static\images\filter_ex.png)
+![Filtered by Date](https://user-images.githubusercontent.com/89496798/147433657-56f136dc-8bfc-4cc6-8fef-34103c4142d3.png)
 
 Once the data is cleared from the filter fields, the table will revert back and display all the data captured.
 
